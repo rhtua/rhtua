@@ -19,7 +19,7 @@
 - :computer: Familiar with C#, TypeScript, Angular and SQL Server with NHibernate. Currently working with Node.js, ReactJS, NextJS and ChakraUI
 - :mortar_board: Software Engineering student
 - :art: Front End and Design enthusiast (backend is nice too, no favoritism)
-- :link: Contact me [here](https://linktr.ee/rhtua)
+- :link: Contact me [here](https://alem.bio/arthur)
 
 
 ## &#x1f4c8; GitHub Stats
