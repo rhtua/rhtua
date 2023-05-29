@@ -18,7 +18,7 @@
 - :office: Developer at [Gazin Tech](https://www.linkedin.com/company/gazin-tech/?originalSubdomain=br)
 - :computer: Familiar with C#, TypeScript, Angular and SQL Server with NHibernate. Currently working with Node.js, ReactJS, NextJS and ChakraUI
 - :mortar_board: Software Engineering student
-- :art: Front End and Design enthusiast (backend is nice too, no favoritism)
+- :art: Front End and Design enthusiast (backend is cool too)
 - :link: Contact me [here](https://alem.bio/arthur)
 
 
